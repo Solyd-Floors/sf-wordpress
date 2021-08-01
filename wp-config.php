@@ -20,16 +20,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'wordpress' );
+define( 'DB_NAME', 'doadmin' );
 
 /** MySQL database username */
-define( 'DB_USER', 'b8qpscz5xpjbwtuy' );
+define( 'DB_USER', 'fco1xtvcjz73aegq' );
 
 /** MySQL database password */
 define( 'DB_PASSWORD', '26cc5c2016a723e166635bc71974b525f8cc3360e6f88154' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'wordpress-db-65539-do-user-9223216-0.b.db.ondigitalocean.com' );
+define( 'DB_HOST', 'wordpress-db-95364-do-user-9223216-0.b.db.ondigitalocean.com' );
 
 define( 'DB_PORT', 25060 )
 
