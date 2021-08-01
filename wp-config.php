@@ -28,10 +28,8 @@ define( 'DB_USER', 'doadmin' );
 /** MySQL database password */
 define( 'DB_PASSWORD', 'fco1xtvcjz73aegq' );
 
-define( 'DB_PORT', 25060 );
-
 /** MySQL hostname */
-define( 'DB_HOST', 'wordpress-db-95364-do-user-9223216-0.b.db.ondigitalocean.com' );
+define( 'DB_HOST', 'wordpress-db-95364-do-user-9223216-0.b.db.ondigitalocean.com:25060' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
